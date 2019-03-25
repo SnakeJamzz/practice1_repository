@@ -1,3 +1,3 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "Practice1"
+mainClassName = "qa.practice1.sandbox.Practice1"
