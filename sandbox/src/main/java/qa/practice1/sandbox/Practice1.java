@@ -7,25 +7,19 @@ public class Practice1 {
     giant("ANT");
     giant("HAMSTER");
 
-    double l = 6;
-    System.out.println("powierzchnia kwadratu o boku " + l + " = " + areas(l));
 
-    double a = 4;
-    double b = 6;
-    System.out.println("powierzchnia prostokąta a bokach " + a + " i " + b + " = " + areas(a, b));
-}
+    Square s = new Square(6);
+    System.out.println("powierzchnia kwadratu o boku " + s.l + " = " + s.areas());
 
-public static void giant(String animal){
+    Rectangle r = new Rectangle(6,4);
+    System.out.println("powierzchnia prostokąta a bokach " + r.a + " i " + r.b + " = " + r.areas());
+  }
+
+  public static void giant(String animal){
 	  System.out.println("Giant " + animal + "!");
 
-}
-public static double areas(double len){
-    return len * len;
+  }
+
 
 }
 
-public static double areas(double a, double b){
-	  return a * b;
-}
-
-}
