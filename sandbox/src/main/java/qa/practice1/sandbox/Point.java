@@ -5,23 +5,21 @@ package qa.practice1.sandbox;
       public double x;
       public double y;
 
-      public Point(double x, double y)
-      {
+      public Point(double x, double y) {
         this.x = x;
         this.y = y;
       }
-      public double distance(Point p1, Point p2)
-      {
-      double d = Math.sqrt(Math.pow(p1.x - p2.x, 2.0) + Math.pow(p1.y - p2.y, 2.0));
-      return d;
+
+      public double distance(Point p2, Point p1) {
+
+        return Math.sqrt(Math.pow(p1.x - p2.x, 2.0) + Math.pow(p1.y - p2.y, 2.0));
       }
-      
-        }
-        public void main(String[] args)
-        {
+      /*{
+      double d =
+      return d;
+      }*/
 
-        Point d = new Point(3.0, 4.0);
+        }
+        /*{
         System.out.println("Distance between points "  + d.x + "and " + d.y + "=" + d.distance());
-
-        }
-        }
+        }*/
