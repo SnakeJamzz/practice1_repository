@@ -1,4 +1,4 @@
-package qa.practice1.sandbox;
+/*package qa.practice1.sandbox;
 
     public class Point {
 
@@ -14,12 +14,6 @@ package qa.practice1.sandbox;
 
         return Math.sqrt(Math.pow(p1.x - p2.x, 2.0) + Math.pow(p1.y - p2.y, 2.0));
       }
-      /*{
-      double d =
-      return d;
-      }*/
 
-        }
-        /*{
-        System.out.println("Distance between points "  + d.x + "and " + d.y + "=" + d.distance());
+
         }*/
