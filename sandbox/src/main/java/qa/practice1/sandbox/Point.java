@@ -1,4 +1,4 @@
-/*package qa.practice1.sandbox;
+package qa.practice1.sandbox;
 
     public class Point {
 
@@ -9,11 +9,23 @@
         this.x = x;
         this.y = y;
       }
+      public double getX(){
+        return x;
+      }
+      public double getY(){
+        return y;
+      }
+      public void setX(double x){
+        this.x = x;
+      }
+      public void setY(double y){
+        this.y = y;
+      }
 
-      public double distance(Point p2, Point p1) {
+      public double distance(Point p2) {
 
-        return Math.sqrt(Math.pow(p1.x - p2.x, 2.0) + Math.pow(p1.y - p2.y, 2.0));
+        return Math.sqrt(Math.pow(p2.getX() - this.getX(), 2.0) + Math.pow(p2.getY() - this.getY(), 2.0));
       }
 
 
-        }*/
+        }
