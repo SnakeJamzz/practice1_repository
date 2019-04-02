@@ -1,4 +1,5 @@
-package qa.practice1.sandbox;
+/*package qa.practice1.sandbox;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class SquareTest{
@@ -6,6 +7,7 @@ public class SquareTest{
     @Test
     public void testAreas(){
         Square s = new Square(5);
-        assert s.areas() == 25;
+        Assert.assertEquals(s.areas() == 25.0);
     }
 }
+*/
