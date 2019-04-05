@@ -91,8 +91,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/GroupCreactionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="255">
+              <caret line="55" column="57" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
+              <folding>
+                <element signature="e#1146#1147#0" expanded="true" />
+                <element signature="e#1211#1212#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#1758#1759#0" expanded="true" />
+                <element signature="e#1719#1720#0" expanded="true" />
+                <element signature="e#1780#1781#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -265,6 +275,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -336,29 +347,27 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PointTest.testDistance" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;qa.practice1.sandbox.PointTest.testDistance&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreactionTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="adresbook_web_tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.practice1.adressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.practice1.adressbook" />
+      <option name="MAIN_CLASS_NAME" value="qa.practice1.adressbook.GroupCreactionTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -420,10 +429,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.GroupCreactionTests" />
+        <item itemvalue="TestNG.GroupCreactionTests (1)" />
         <item itemvalue="TestNG.PointTest" />
         <item itemvalue="Application.Practice1" />
         <item itemvalue="Gradle.PointTest" />
-        <item itemvalue="Gradle.PointTest.testDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -441,12 +450,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PointTest - 2019.04.02 at 20h 17m 12s.xml">
-      <configuration name="PointTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PointTest - 2019.04.02 at 20h 17m 41s.xml">
-      <configuration name="PointTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="PointTest - 2019.04.02 at 20h 18m 19s.xml">
       <configuration name="PointTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -471,6 +474,12 @@
     <history-entry file="GroupCreactionTests - 2019.04.05 at 20h 35m 35s.xml">
       <configuration name="GroupCreactionTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GroupCreactionTests - 2019.04.05 at 21h 03m 31s.xml">
+      <configuration name="GroupCreactionTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreactionTests_(1) - 2019.04.05 at 21h 48m 18s.xml">
+      <configuration name="GroupCreactionTests (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,13 +503,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.25951558" side_tool="true" weight="0.28441754" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33333334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9024206" visible="true" weight="0.1898527" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9024206" visible="true" weight="0.2667758" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32569557" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.09757943" side_tool="true" visible="true" weight="0.1898527" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.09757943" side_tool="true" visible="true" weight="0.2667758" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.3298611" />
       <window_info anchor="bottom" id="Build" order="10" sideWeight="0.90166414" weight="0.43698853" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4977307" weight="0.5270049" />
@@ -605,8 +614,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/GroupCreactionTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="255">
+          <caret line="55" column="57" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
+          <folding>
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
