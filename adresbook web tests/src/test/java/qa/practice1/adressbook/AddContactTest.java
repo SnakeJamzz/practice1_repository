@@ -14,31 +14,46 @@ public class AddContactTest {
         wdc = new FirefoxDriver();
         wdc.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         wdc.get("http://localhost/addressbook/");
+        login("admin", "secret");
+    }
+
+    private void login(String username, String password) {
         wdc.findElement(By.name("user")).clear();
-        wdc.findElement(By.name("user")).sendKeys("admin");
+        wdc.findElement(By.name("user")).sendKeys(username);
         wdc.findElement(By.name("pass")).click();
         wdc.findElement(By.name("pass")).clear();
-        wdc.findElement(By.name("pass")).sendKeys("secret");
+        wdc.findElement(By.name("pass")).sendKeys(password);
         wdc.findElement(By.xpath("//input[@value='Login']")).click();
     }
 
     @Test
     public void testAddContact() throws Exception {
-        wdc.findElement(By.id("content")).click();
-        wdc.findElement(By.linkText("add new")).click();
+        goToAddNew();
+        fillAddNewForm(new ContactData("John", "Rambo", "666999111", "john.rambo@gmail.kom"));
+        submitAddNewCreation();
+    }
+
+    private void submitAddNewCreation() {
+        wdc.findElement(By.xpath("(//input[@name='submit'])[2]")).click();
+    }
+
+    private void fillAddNewForm(ContactData contactData) {
         wdc.findElement(By.name("firstname")).click();
         wdc.findElement(By.name("firstname")).clear();
-        wdc.findElement(By.name("firstname")).sendKeys("John");
+        wdc.findElement(By.name("firstname")).sendKeys(contactData.getFirstname());
         wdc.findElement(By.name("lastname")).click();
         wdc.findElement(By.name("lastname")).clear();
-        wdc.findElement(By.name("lastname")).sendKeys("Rambo");
+        wdc.findElement(By.name("lastname")).sendKeys(contactData.getLastname());
         wdc.findElement(By.name("mobile")).click();
         wdc.findElement(By.name("mobile")).clear();
-        wdc.findElement(By.name("mobile")).sendKeys("666999111");
+        wdc.findElement(By.name("mobile")).sendKeys(contactData.getMobile());
         wdc.findElement(By.name("email")).click();
         wdc.findElement(By.name("email")).clear();
-        wdc.findElement(By.name("email")).sendKeys("john.rambo@gmail.kom");
-        wdc.findElement(By.xpath("(//input[@name='submit'])[2]")).click();
+        wdc.findElement(By.name("email")).sendKeys(contactData.getEmail());
+    }
+
+    private void goToAddNew() {
+        wdc.findElement(By.linkText("add new")).click();
     }
 
     @AfterMethod(alwaysRun = true)
