@@ -13,10 +13,6 @@ public class AddContactTest {
     public void setUp() throws Exception {
         wdc = new FirefoxDriver();
         wdc.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-    }
-
-    @Test
-    public void testAddContact() throws Exception {
         wdc.get("http://localhost/addressbook/");
         wdc.findElement(By.name("user")).clear();
         wdc.findElement(By.name("user")).sendKeys("admin");
@@ -24,6 +20,10 @@ public class AddContactTest {
         wdc.findElement(By.name("pass")).clear();
         wdc.findElement(By.name("pass")).sendKeys("secret");
         wdc.findElement(By.xpath("//input[@value='Login']")).click();
+    }
+
+    @Test
+    public void testAddContact() throws Exception {
         wdc.findElement(By.id("content")).click();
         wdc.findElement(By.linkText("add new")).click();
         wdc.findElement(By.name("firstname")).click();

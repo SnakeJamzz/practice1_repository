@@ -63,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/GroupCreactionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="588">
               <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
             </state>
           </provider>
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/AddContactTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="68">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -420,12 +420,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PointTest - 2019.04.03 at 19h 10m 01s.xml">
-      <configuration name="PointTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PointTest - 2019.04.04 at 18h 00m 17s.xml">
-      <configuration name="PointTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PointTest - 2019.04.04 at 18h 10m 48s.xml">
       <configuration name="PointTest" configurationId="TestNG" />
     </history-entry>
@@ -448,6 +442,12 @@
       <configuration name="AddContactTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="AddContactTest - 2019.04.06 at 11h 15m 09s.xml">
+      <configuration name="AddContactTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest - 2019.04.06 at 11h 18m 37s.xml">
+      <configuration name="AddContactTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest - 2019.04.06 at 11h 29m 16s.xml">
       <configuration name="AddContactTest" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -473,13 +473,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.25951558" side_tool="true" weight="0.28441754" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33333334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.90166414" visible="true" weight="0.57119477" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.90166414" visible="true" weight="0.3207856" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32569557" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.098335855" side_tool="true" visible="true" weight="0.57119477" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.098335855" side_tool="true" visible="true" weight="0.3207856" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.3298611" />
       <window_info anchor="bottom" id="Build" order="10" sideWeight="0.90166414" weight="0.43698853" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4977307" weight="0.5270049" />
@@ -489,7 +489,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.031770047" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.19288956" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
@@ -582,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/GroupCreactionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/GroupData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -596,10 +589,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/GroupCreactionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/AddContactTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="68">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
