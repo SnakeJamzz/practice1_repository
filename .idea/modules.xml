@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adresbook_web_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/adresbook_web_tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adresbook_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adresbook_web_tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adresbook_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/adresbook_web_tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contactsbook web test.contactsbook_web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/contactsbook web test.contactsbook_web_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contactsbook_web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/contactsbook_web_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" group="sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" group="sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" group="sandbox" />
