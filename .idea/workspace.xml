@@ -66,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/GroupCreationTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="-476">
+              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
               <folding>
                 <element signature="e#1274#1275#0" expanded="true" />
                 <element signature="e#1339#1340#0" expanded="true" />
@@ -80,6 +80,32 @@
                 <element signature="e#1891#1892#0" expanded="true" />
                 <element signature="e#1852#1853#0" expanded="true" />
                 <element signature="e#1913#1914#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/GroupData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/AddContactTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding>
+                <element signature="e#1155#1156#0" expanded="true" />
+                <element signature="e#1206#1207#0" expanded="true" />
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1257#1258#0" expanded="true" />
+                <element signature="e#1850#1851#0" expanded="true" />
+                <element signature="e#1907#1908#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +146,7 @@
         <option value="$PROJECT_DIR$/adresbook web tests/src/test/java/qa/practice1/adressbook/appmanager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/qa/practice1/sandbox/Point.java" />
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/GroupCreationTest1.java" />
+        <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/AddContactTest1.java" />
       </list>
     </option>
   </component>
@@ -223,13 +250,22 @@
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="contactsbook web test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="contactsbook web test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contactsbook web test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contactsbook" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationTest1">
+  <component name="RunManager" selected="TestNG.AddContactTest1 (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -287,16 +323,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddContactTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="adresbook_web_tests.test" />
+    <configuration name="AddContactTest1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="contactsbook web test.contactsbook_web_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qa.practice1.adressbook.appmanager.*" />
+          <option name="PATTERN" value="com.example.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="qa.practice1.adressbook" />
-      <option name="MAIN_CLASS_NAME" value="qa.practice1.adressbook.test.AddContactTest" />
+      <option name="PACKAGE_NAME" value="qa.practice1.contactsbook" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.AddContactTest1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -305,16 +341,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreactionTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="adresbook_web_tests.test" />
+    <configuration name="AddContactTest1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="contactsbook web test.contactsbook_web_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qa.practice1.adressbook.appmanager.*" />
+          <option name="PATTERN" value="com.example.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="qa.practice1.adressbook" />
-      <option name="MAIN_CLASS_NAME" value="qa.practice1.adressbook.test.GroupCreactionTests" />
+      <option name="PACKAGE_NAME" value="qa.practice1.contactsbook" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.AddContactTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddContactTest1 (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="contactsbook web test.contactsbook_web_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.practice1.contactsbook" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.AddContactTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddContactTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="contactsbook web test.contactsbook_web_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.practice1.contactsbook" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.AddContactTest1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -333,43 +405,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="qa.practice1.contactsbook" />
       <option name="MAIN_CLASS_NAME" value="qa.practice1.contactsbook.GroupCreationTest1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupCreationTest1.testGroupCreation1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="contactsbook web test.contactsbook_web_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="qa.practice1.contactsbook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="qa.practice1.contactsbook" />
-      <option name="MAIN_CLASS_NAME" value="qa.practice1.contactsbook.GroupCreationTest1" />
-      <option name="METHOD_NAME" value="testGroupCreation1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupDeletionTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="adresbook_web_tests.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="qa.practice1.adressbook.appmanager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="qa.practice1.adressbook" />
-      <option name="MAIN_CLASS_NAME" value="qa.practice1.adressbook.test.GroupDeletionTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -398,11 +433,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddContactTest1 (3)" />
+        <item itemvalue="TestNG.AddContactTest1 (2)" />
+        <item itemvalue="TestNG.AddContactTest1" />
+        <item itemvalue="TestNG.AddContactTest1 (1)" />
         <item itemvalue="TestNG.GroupCreationTest1" />
-        <item itemvalue="TestNG.GroupCreationTest1.testGroupCreation1" />
-        <item itemvalue="TestNG.GroupDeletionTest" />
-        <item itemvalue="TestNG.AddContactTest" />
-        <item itemvalue="TestNG.GroupCreactionTests" />
       </list>
     </recent_temporary>
   </component>
@@ -420,24 +455,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddContactTest - 2019.04.06 at 11h 31m 27s.xml">
-      <configuration name="AddContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest - 2019.04.06 at 11h 33m 22s.xml">
-      <configuration name="AddContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest - 2019.04.06 at 11h 33m 42s.xml">
-      <configuration name="AddContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest - 2019.04.06 at 11h 42m 27s.xml">
-      <configuration name="AddContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest - 2019.04.06 at 11h 59m 02s.xml">
-      <configuration name="AddContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest - 2019.04.06 at 12h 07m 40s.xml">
-      <configuration name="AddContactTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GroupDeletionTest - 2019.04.07 at 12h 29m 46s.xml">
       <configuration name="GroupDeletionTest" configurationId="TestNG" />
     </history-entry>
@@ -449,6 +466,24 @@
     </history-entry>
     <history-entry file="GroupCreationTest1_testGroupCreation1 - 2019.04.08 at 20h 35m 06s.xml">
       <configuration name="GroupCreationTest1.testGroupCreation1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTest1 - 2019.04.08 at 20h 42m 33s.xml">
+      <configuration name="GroupCreationTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1 - 2019.04.08 at 20h 56m 18s.xml">
+      <configuration name="AddContactTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1_(1) - 2019.04.08 at 20h 57m 09s.xml">
+      <configuration name="AddContactTest1 (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1 - 2019.04.08 at 20h 57m 35s.xml">
+      <configuration name="AddContactTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1 - 2019.04.08 at 20h 58m 04s.xml">
+      <configuration name="AddContactTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1_(2) - 2019.04.08 at 21h 00m 34s.xml">
+      <configuration name="AddContactTest1 (2)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -464,7 +499,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7404844" visible="true" weight="0.20272315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7404844" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" sideWeight="0.4963768" weight="0.25718608" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -473,7 +508,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.25951558" side_tool="true" weight="0.28441754" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33333334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9009077" visible="true" weight="0.33224222" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9009077" visible="true" weight="0.33224222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -666,10 +701,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/GroupData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/GroupCreationTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="-476">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
           <folding>
             <element signature="e#1274#1275#0" expanded="true" />
             <element signature="e#1339#1340#0" expanded="true" />
@@ -679,6 +721,21 @@
             <element signature="e#1891#1892#0" expanded="true" />
             <element signature="e#1852#1853#0" expanded="true" />
             <element signature="e#1913#1914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/AddContactTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1907#1908#0" expanded="true" />
           </folding>
         </state>
       </provider>
