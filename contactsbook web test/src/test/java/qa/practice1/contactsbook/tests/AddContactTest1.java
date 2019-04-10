@@ -1,10 +1,10 @@
-package com.example.tests;
+package qa.practice1.contactsbook.tests;
 
 import java.util.concurrent.TimeUnit;
 import org.testng.annotations.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import qa.practice1.contactsbook.ContactData1;
+import qa.practice1.contactsbook.model.ContactData1;
 
 public class AddContactTest1 {
   private WebDriver wda;
