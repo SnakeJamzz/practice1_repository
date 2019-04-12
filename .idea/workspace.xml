@@ -69,16 +69,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/ApplicationManager1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="170">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1281#1282#0" expanded="true" />
-                <element signature="e#1306#1307#0" expanded="true" />
-                <element signature="e#1758#1759#0" expanded="true" />
-                <element signature="e#1793#1794#0" expanded="true" />
-                <element signature="e#2030#2031#0" expanded="true" />
-                <element signature="e#2070#2071#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,12 +81,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/SessionHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,12 +93,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/NavigationHelper1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/GroupHelper1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1261#1262#0" expanded="true" />
+                <element signature="e#1316#1317#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,33 +148,9 @@
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/GroupCreationTest1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/GroupHelper1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#1142#1143#0" expanded="true" />
-                <element signature="e#1184#1185#0" expanded="true" />
-                <element signature="e#1239#1240#0" expanded="true" />
-                <element signature="e#1272#1273#0" expanded="true" />
-                <element signature="e#1331#1332#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,7 +159,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/AddContactTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="170">
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             </state>
           </provider>
@@ -161,7 +169,7 @@
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/GroupDeletionTest1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -169,8 +177,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,9 +225,11 @@
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/GroupDeletionTest1.java" />
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/TestBase.java" />
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/ApplicationManager1.java" />
+        <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/SessionHelper1.java" />
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/GroupHelper1.java" />
-        <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/NavigationHelper1.java" />
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/NavigationHelper1.java" />
+        <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/HelperBase.java" />
         <option value="$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/ApplicationManager1.java" />
       </list>
     </option>
@@ -306,8 +316,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -357,12 +365,23 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="contactsbook" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contactsbook web test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contactsbook" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,7 +416,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupDeletionTest1">
+  <component name="RunManager" selected="TestNG.qa.practice1.contactsbook.tests">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -475,7 +494,7 @@
       <module name="contactsbook web test.contactsbook_web_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qa.practice1.contactsbook.appmanager.*" />
+          <option name="PATTERN" value="qa.practice1.contactsbook.appmanager.SessionHelper" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,7 +512,7 @@
       <module name="contactsbook web test.contactsbook_web_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qa.practice1.contactsbook.appmanager.*" />
+          <option name="PATTERN" value="qa.practice1.contactsbook.appmanager.SessionHelper" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,6 +535,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="qa.practice1.contactsbook.tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="contactsbook web test.contactsbook_web_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.practice1.contactsbook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.practice1.contactsbook.tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -527,11 +563,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.qa.practice1.contactsbook.tests" />
         <item itemvalue="TestNG.GroupDeletionTest1" />
-        <item itemvalue="TestNG.AddContactTest1" />
         <item itemvalue="TestNG.GroupCreationTest1" />
-        <item itemvalue="TestNG.AddContactTest1 (3)" />
-        <item itemvalue="TestNG.AddContactTest1 (2)" />
+        <item itemvalue="TestNG.AddContactTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -549,35 +584,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationTest1 - 2019.04.08 at 20h 42m 33s.xml">
-      <configuration name="GroupCreationTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest1 - 2019.04.08 at 20h 56m 18s.xml">
-      <configuration name="AddContactTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest1_(1) - 2019.04.08 at 20h 57m 09s.xml">
-      <configuration name="AddContactTest1 (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest1 - 2019.04.08 at 20h 57m 35s.xml">
-      <configuration name="AddContactTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest1 - 2019.04.08 at 20h 58m 04s.xml">
-      <configuration name="AddContactTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest1_(2) - 2019.04.08 at 21h 00m 34s.xml">
-      <configuration name="AddContactTest1 (2)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddContactTest1_(3) - 2019.04.08 at 21h 22m 05s.xml">
-      <configuration name="AddContactTest1 (3)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupDeletionTest1 - 2019.04.10 at 20h 00m 48s.xml">
-      <configuration name="GroupDeletionTest1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GroupCreationTest1 - 2019.04.10 at 20h 02m 40s.xml">
       <configuration name="GroupCreationTest1" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GroupDeletionTest1 - 2019.04.10 at 20h 03m 25s.xml">
       <configuration name="GroupDeletionTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTest1 - 2019.04.10 at 21h 05m 43s.xml">
+      <configuration name="GroupCreationTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1 - 2019.04.10 at 21h 06m 01s.xml">
+      <configuration name="AddContactTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDeletionTest1 - 2019.04.10 at 21h 06m 22s.xml">
+      <configuration name="GroupDeletionTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1 - 2019.04.11 at 19h 31m 47s.xml">
+      <configuration name="AddContactTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddContactTest1 - 2019.04.12 at 19h 52m 51s.xml">
+      <configuration name="AddContactTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTest1 - 2019.04.12 at 19h 53m 09s.xml">
+      <configuration name="GroupCreationTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDeletionTest1 - 2019.04.12 at 19h 53m 26s.xml">
+      <configuration name="GroupDeletionTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="qa_practice1_contactsbook_tests - 2019.04.12 at 20h 01m 46s.xml">
+      <configuration name="qa.practice1.contactsbook.tests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -591,9 +626,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7404844" visible="true" weight="0.28517398" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7404844" visible="true" weight="0.21482602" />
       <window_info id="Structure" order="1" sideWeight="0.4963768" weight="0.25718608" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -602,16 +636,16 @@
       <window_info id="Favorites" order="6" sideWeight="0.25951558" side_tool="true" weight="0.28441754" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33333334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9009077" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89939487" visible="true" weight="0.44353518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32569557" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.09909228" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.100605145" side_tool="true" visible="true" weight="0.44353518" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.3298611" />
       <window_info anchor="bottom" id="Build" order="10" sideWeight="0.9009077" weight="0.34860885" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4977307" weight="0.5270049" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49621785" weight="0.3747954" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -807,17 +841,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/AddContactTest1.java">
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/GroupCreationTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="289">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -827,78 +854,91 @@
     <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/GroupDeletionTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/GroupCreationTest1.java">
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="68">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/tests/AddContactTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/GroupHelper1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1142#1143#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1331#1332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/NavigationHelper1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="204">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/NavigationHelper1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contactsbook web test/src/test/java/qa/practice1/contactsbook/appmanager/ApplicationManager1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1281#1282#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1758#1759#0" expanded="true" />
-            <element signature="e#1793#1794#0" expanded="true" />
-            <element signature="e#2030#2031#0" expanded="true" />
-            <element signature="e#2070#2071#0" expanded="true" />
           </folding>
         </state>
       </provider>

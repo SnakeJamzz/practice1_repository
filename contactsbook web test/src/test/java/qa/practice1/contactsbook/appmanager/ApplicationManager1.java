@@ -1,7 +1,6 @@
 package qa.practice1.contactsbook.appmanager;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -40,14 +39,6 @@ public class ApplicationManager1 {
         }
     }
 
-    private boolean isAlertPresent() {
-        try {
-            wd.switchTo().alert();
-            return true;
-        } catch (NoAlertPresentException e) {
-            return false;
-        }
-    }
 
     public GroupHelper1 getGroupHelper1() {
         return groupHelper1;
